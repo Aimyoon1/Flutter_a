@@ -1,0 +1,24 @@
+void main(){
+    runApp(const MyApp());  => run MyApp
+} 
+
+MaterialApp Widget creates instance of Widgets
+Байхгүй бол Scaffold гэх мэт Widget үүдийг ашиглаж чадахгүй
+
+MaterialApp is ANCESTOR OF ALL Widgets
+
+home is '/' root
+
+Scaffold widget => gives us white screen
+
+top of the white screen is appBar
+mid of the white screen is body
+bottom of the white screen is bottomNavigationBar
+thing that floating on white screen is floatingActionButton
+
+
+
+---------------------- NEW WORDS
+
+Ancestor - 祖先　(そ せん)　- Өвөг (bugd salaalsan ter hesg)
+
